@@ -1,2 +1,3 @@
-# gio-assets
+# Gio Assets
+
 Gio Project - Static assets
